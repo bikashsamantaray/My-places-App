@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#011627</color>
+    <color name="purple_500">#60C62C</color>
+    <color name="purple_700">#2EC4B6</color>
+    <color name="teal_200">#E71D36</color>
+    <color name="teal_700">#FF9F1C</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="circular_image_border_color">#757575</color>
+    <color name="item_happy_place_description_text_color">#606060</color>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Places</string>
+    <string name="edit_text_hint_title">Title</string>
+    <string name="edit_text_hint_description">Description</string>
+    <string name="edit_text_hint_date">Date</string>
+    <string name="edit_text_hint_location">Location</string>
+    <string name="text_add_image">ADD IMAGE</string>
+    <string name="btn_text_save">SAVE</string>
+    <string name="note_text_no_places_found_yet">No Happy Places Found Yet. Kindly Add One.</string>
+    <string name="image_content_description">image</string>
+
+    <string name="btn_text_view_on_map">VIEW ON MAP</string>
+
+    <string name="google_maps_api_key">AIzaSyAnJftC2XMRIN5QuUKi63JFr7WhzDcbiYQ</string>
+</resources>
